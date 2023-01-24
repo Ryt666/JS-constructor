@@ -1,0 +1,23 @@
+#app {
+  position: relative;
+}
+
+.content {
+  position: absolute;
+  top: 0;
+  left: 200px;
+  right: 0;
+}
+
+.sidebar {
+  width: 200px;
+  z-index: 100;
+  box-shadow: inset -ipx 0 0 #0000;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  overflow-y: auto;
+}
+
+/*# sourceMappingURL=index.5525e4b8.css.map */
